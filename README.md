@@ -7,6 +7,7 @@ Web developer. I build applications with Next.js, React, and TypeScript.
 - Portfolio: [ezequielgallardo.dev](https://ezequielgallardo.dev)
 - Email: [contacto@ezequielgallardo.dev](mailto:contacto@ezequielgallardo.dev)
 - LinkedIn: [ezequiel-gallardo](https://www.linkedin.com/in/ezequiel-gallardo-5a6162205)
+- Proyectos personales: [Noylan](https://github.com/Noylan)
 
 ### Repositorios
 
