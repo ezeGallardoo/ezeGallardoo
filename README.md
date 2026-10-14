@@ -12,10 +12,6 @@ Construyo aplicaciones web con Next.js, React, TypeScript y PostgreSQL. Estudio 
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,prisma,python,tailwind,docker,git&perline=10" alt="React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Python, Tailwind, Docker y Git" />
 </p>
 
-### Trabajo
-
-- [portafolio](https://github.com/ezeGallardoo/portafolio) — sitio personal en español e inglés, con SEO técnico y CV descargable. Se ve en [ezequielgallardo.dev](https://ezequielgallardo.dev).
-
 ### Contacto
 
 [contacto@ezequielgallardo.dev](mailto:contacto@ezequielgallardo.dev)
